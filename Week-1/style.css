@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('shershah2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+.header {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.love-story,
+.awards,
+.biography,
+.legacy {
+    margin-top: 30px;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: 0px;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 0px;
+    font-size: 1rem;
+}
